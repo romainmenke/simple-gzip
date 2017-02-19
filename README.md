@@ -22,3 +22,11 @@ I use it with `//go:generate simple-gzip` and [modd](https://github.com/cortesi/
 - `-out`          : output directory
 - `-level`        : compression level
 - `trailing args` : exclusion -> simple `must not contain` logic
+
+---
+
+### Simple
+
+- [simple-mini](https://github.com/romainmenke/simple-mini)
+- [simple-bundle](https://github.com/romainmenke/simple-bundle)
+- [simple-gzip](https://github.com/romainmenke/simple-gzip)
